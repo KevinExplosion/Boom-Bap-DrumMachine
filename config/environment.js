@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'please-work',
+    modulePrefix: 'Boom-Bap-DrumMachine',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
