@@ -36,6 +36,11 @@ module.exports = function(environment) {
     // ENV.APP.LOG_VIEW_LOOKUPS = true;
   }
 
+    // ADDED for deployment to gh-pages
+  if (environment === 'production') {
+    ENV.baseURL = '/repository_name/';
+  }
+
   if (environment === 'test') {
     // Testem prefers this...
     ENV.baseURL = '/';
