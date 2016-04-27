@@ -55,9 +55,9 @@ module.exports = function(environment) {
 
   if (environment === 'production') {
     ENV.locationType = 'hash';
-    ENV.baseURL = '/please-work/';
+    ENV.baseURL = '/Boom-Bap-DrumMachine/';
     ENV.locationType = 'hash';
-    ENV.baseURL = '/please-work/';
+    ENV.baseURL = '/Boom-Bap-DrumMachine/';
 
   }
 

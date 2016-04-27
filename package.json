@@ -1,7 +1,7 @@
 {
-  "name": "please-work",
+  "name": "Boom-Bap-DrumMachine",
   "version": "0.0.0",
-  "description": "Small description for please-work goes here",
+  "description": "Drum machine app",
   "private": true,
   "directories": {
     "doc": "doc",
