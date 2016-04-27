@@ -38,7 +38,7 @@ module.exports = function(environment) {
 
     // ADDED for deployment to gh-pages
   if (environment === 'production') {
-    ENV.baseURL = '/repository_name/';
+    ENV.baseURL = '/Boom-Bap-DrumMachine/';
   }
 
   if (environment === 'test') {
